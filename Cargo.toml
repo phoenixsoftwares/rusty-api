@@ -1,13 +1,6 @@
 [package]
-name = "rusty-api"
+name = "b_to_d_converter"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-
-
-[lib]
-name="vars_example"
-test = true
-plugin = false
-path = "vars_example/src/lib.rs"
